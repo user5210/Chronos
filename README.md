@@ -1,0 +1,2 @@
+# Chronos
+Ölüm tarihini ogren
